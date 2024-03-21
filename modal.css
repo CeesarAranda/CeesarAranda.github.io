@@ -45,7 +45,7 @@ body{
     width: 100%;
     max-width: 400px;
     padding: 20px;
-    background-color: white;
+    background-color: transparent;
     border-radius: 4px;
 }
 .content-modal h2{
@@ -62,5 +62,7 @@ body{
         width: 90%;
     }
 } 
+
+
 
 

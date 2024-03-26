@@ -390,11 +390,6 @@ header .container {
   .container {
     padding: 0 1.5rem;
   }
-  .cta{
-  display:flex;
-  justify-content:center;
-  align-items:center;
-}
 
   .big-title {
     font-size: 0.9rem;
@@ -415,13 +410,9 @@ header .container {
 @media screen and (max-width: 470px){
  
   .big-title {
-    text-align: leeft;
+    text-align: left;
   }
-  .cta{
-  display:flex;
-  justify-content:center;
-  align-items:center;
-}
+
 }
 
 

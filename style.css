@@ -295,6 +295,11 @@ header .container {
   .hamburger-menu {
     display: flex;
   }
+  .cta{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
 
   .links {
     position: fixed;
@@ -389,6 +394,11 @@ header .container {
   .container {
     padding: 0 1.5rem;
   }
+  .cta{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
 
   .big-title {
     font-size: 0.9rem;
@@ -411,6 +421,11 @@ header .container {
   .big-title {
     text-align: leeft;
   }
+  .cta{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
 }
 
 
@@ -418,6 +433,11 @@ header .container {
   body{
     font-size: 1.3rem;
   }
+  .cta{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
 }
 
 @media only screen and (min-width: 1080px) and (max-width: 1920px) {
@@ -441,6 +461,11 @@ header .container {
   }
 p{
   font-size: 1rem;
+}
+  .cta{
+  display:flex;
+  justify-content:center;
+  align-items:center;
 }
 
 

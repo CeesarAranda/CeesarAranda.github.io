@@ -132,7 +132,7 @@ html, body {
 }
 
 
- .logo a{
+.logo a{
   color: black;
   padding-right: 300px;
 }
@@ -144,8 +144,8 @@ html, body {
 
 @media screen and (max-height: 540px) {
   .frame {
-    width: 54vh;
-    height: 81vh;
+    width: 50vh;
+    height: 48vh;
     font-size: 13px;
   }
   
@@ -154,8 +154,15 @@ html, body {
 @media screen and (max-height: 440px) {
   .frame {
     font-size: 8px;
+    position: relative;
+    width: 50vh;
+    height: 60vh;
+    max-width: 600px;
+    max-height: 400px;
+    z-index: 1;
+    margin-top: 60px;
+    font-size: 15px;
   }
- 
 }
 
 
@@ -169,9 +176,9 @@ html, body {
   .frame {
     position: relative;
     width: 50vh;
-    height: 80vh;
-    max-width: 400px;
-    max-height: 600px;
+    height: 90vh;
+    max-width: 600px;
+    max-height: 400px;
     z-index: 1;
     margin-top: 60px;
     font-size: 15px;
